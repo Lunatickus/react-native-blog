@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-practice-1",
-    "slug": "react-native-practice-1",
+    "name": "Mobile Blog App",
+    "slug": "react-native-blog",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
